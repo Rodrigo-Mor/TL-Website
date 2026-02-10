@@ -13,7 +13,7 @@ export const sponsorInformation = {
     },
   ],
   gold: [
-    { name: "TAP", link: "https://www.flytap.com/pt-pt/", logo: "/images/sponsors/gold/tap.webp" },
+    { name: "TAP", link: "https://www.tapme.pt/en", logo: "/images/sponsors/gold/tap.webp" },
     {
       name: "Einhell",
       link: "https://www.einhell.pt/",
@@ -64,6 +64,11 @@ export const sponsorInformation = {
       link: "https://www.thyssenkrupp.com/en/home",
       logo: "/images/sponsors/silver/thyssenkrupp.webp",
     },
+    {
+      name: "Coficab",
+      link: "https://www.coficab.com",
+      logo: "/images/sponsors/silver/coficab.webp",
+    },
   ],
   bronze: [
     { name: "Fhorex", link: "https://fhorex.pt/pt/", logo: "/images/sponsors/bronze/fhorex.webp" },
@@ -72,16 +77,11 @@ export const sponsorInformation = {
       link: "https://www.wavec.org/",
       logo: "/images/sponsors/bronze/wavec.webp",
     },
-    { name: "RMC", link: "https://www.rmc.com", logo: "/images/sponsors/bronze/rmc.webp" },
+    { name: "RMC", link: "https://rmc.com.pt/", logo: "/images/sponsors/bronze/rmc.webp" },
     {
       name: "AGRacing",
       link: "https://agracing.pt/",
       logo: "/images/sponsors/bronze/agracing.webp",
-    },
-    {
-      name: "Coficab",
-      link: "https://www.coficab.com",
-      logo: "/images/sponsors/bronze/coficab.webp",
     },
     { name: "JDEUS", link: "https://www.jdeus.com/", logo: "/images/sponsors/bronze/jdeus.webp" },
     {
@@ -89,6 +89,7 @@ export const sponsorInformation = {
       link: "https://www.optimal.pt/",
       logo: "/images/sponsors/bronze/optimal.webp",
     },
+    { name: "Cubotónic", link: "https://www.cubotonic.pt/", logo: "/images/sponsors/bronze/cubotonic.webp" },
   ],
   copper: [
     {
@@ -120,11 +121,6 @@ export const sponsorInformation = {
       name: "Imagine Virtual",
       link: "https://www.imaginevirtual.com",
       logo: "/images/sponsors/copper/imagine_virtual.webp",
-    },
-    {
-      name: "Rodorent",
-      link: "https://www.rodorent.pt/",
-      logo: "/images/sponsors/copper/rodorent.webp",
     },
     {
       name: "Norelem",

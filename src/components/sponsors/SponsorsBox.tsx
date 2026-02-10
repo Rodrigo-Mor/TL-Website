@@ -13,8 +13,8 @@ const sponsorTypeStyles: Record<SponsorType, string> = {
   diamond: "bg-[#43a5be]/70",
   gold: "bg-[#ffb13c]/70",
   silver: "bg-[#a3a3a3]/70",
-  bronze: "bg-[#8a1b1b]/70",
-  copper: "bg-[#b87333]/70",
+  bronze: "bg-[#b87333]/70",
+  copper: "bg-[#8a1b1b]/70",
   partners: "bg-[#2150a0]/70",
 };
 
