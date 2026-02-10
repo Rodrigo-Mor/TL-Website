@@ -20,7 +20,10 @@ const sponsorTypeStyles: Record<SponsorType, string> = {
 
 export default function MySponsorsBox({ type }: MySponsorsBoxProps) {
   const sponsors = sponsorInformation[type] || [];
-  const sectionTitle = type.charAt(0).toUpperCase() + type.slice(1) + " Sponsors";
+  const sectionTitle =
+    type === "partners"
+      ? "Partners"
+      : type.charAt(0).toUpperCase() + type.slice(1) + " Sponsors";
 
   // Conditional class for sponsor cards
   const sponsorCardSize =

@@ -69,6 +69,7 @@ export const sponsorInformation = {
       link: "https://www.coficab.com",
       logo: "/images/sponsors/silver/coficab.webp",
     },
+    { name: "CargaKer", link: "https://cargaker.pt/", logo: "/images/sponsors/silver/cargaker.webp"}
   ],
   bronze: [
     { name: "Fhorex", link: "https://fhorex.pt/pt/", logo: "/images/sponsors/bronze/fhorex.webp" },
